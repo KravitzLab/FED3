@@ -1,2 +1,2 @@
 # FED3
-GitHub respository for FED3 device
+See: https://github.com/KravitzLabDevices/FED3
